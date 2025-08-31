@@ -1,0 +1,2 @@
+This is a sample file for ransomware simulation.
+Do not worry, it is safe!
