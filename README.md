@@ -1,7 +1,7 @@
 # Custom Ransomware Simulation 🔐
 
 <p align="center">
-  <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/Custom-Ransomware-Simulation.jpeg" alt="Ransomware Simulation Banner" style="max-width: 100%; height: auto; width: 400px;">
+  <img src="https://github.com/CodeWithTanim/Custom-Ransomware-Simulation/blob/main/docs/screenshots/Custom-Ransomware-Simulation.jpeg" alt="Ransomware Simulation Banner" style="max-width: 100%; height: auto; width: 400px;">
 </p>
 
 <h1 align="center">🧑‍💻 Custom Ransomware Simulation ⚠️</h1>
